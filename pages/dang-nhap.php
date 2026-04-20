@@ -166,9 +166,7 @@ else
                 </form>
                 <a href="#" class="dnthave">Don’t have an account? Sign up</a>
             </div>
-            <div class="footer">
-                <span>Made with <i class="fa fa-heart pulse"></i> <a href="#">By Team Lúc Lắc</a></span>
-            </div>
+            
 			</div>
         </div>
         <!-- /.social-auth-links -->

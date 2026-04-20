@@ -4,7 +4,7 @@
     <div class="pull-right hidden-xs">
       <b>Phiên bản</b> 1.1.1
     </div>
-    <strong>Đề tài thực tập: <a href="https://www.facebook.com/dthanhhuy1998" target="_blank">Quản lý nhân sự</a>.</strong> KGU - 1602206015 - Đào Thanh Huy - B16TT1
+    
   </footer>
   <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark" style="display: none;">

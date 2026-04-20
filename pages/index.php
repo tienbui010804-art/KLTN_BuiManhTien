@@ -72,7 +72,7 @@ if(isset($_SESSION['username']) && isset($_SESSION['level']))
 	    <section class="content-header">
 	      <h1>
 	        Tổng quan
-	        <small>Đề tài thực tập | Quản lý nhân sự tại công ty TNHH Vạn Thành Vi Na</small>
+	        <small>Quản lý nhân sự tại công tnhh LISOD Việt Nam</small>
 	      </h1>
 	      <ol class="breadcrumb">
 	        <li><a href="index.php?p=index&a=statistic"><i class="fa fa-dashboard"></i> Tổng quan</a></li>

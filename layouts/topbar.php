@@ -238,11 +238,7 @@
                       echo "Nhân viên";
                     }
                   ?>
-                  <small>
-                    <?php 
-                      echo "Lượt truy cập: " . $row_acc['truy_cap']; 
-                    ?>
-                  </small>
+                  
                 </p>
               </li>
               <!-- Menu Body -->
